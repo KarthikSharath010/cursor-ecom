@@ -1,4 +1,4 @@
-# Cursor E-commerce Data Demo
+# E-Commerce Data Demo (Built with Cursor IDE)
 
 Synthetic e-commerce dataset plus tooling to materialize it into SQLite for quick demos, analytics exercises, or onboarding tasks.
 

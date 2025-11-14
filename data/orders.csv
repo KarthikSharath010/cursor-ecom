@@ -1,0 +1,31 @@
+order_id,customer_id,order_date,status,shipping_address,shipping_city,shipping_state,shipping_zip,total_amount
+ORD1001,CUST004,2023-10-09,fulfilled,125 Market St,San Francisco,CA,94105,1588.47
+ORD1002,CUST014,2023-01-31,processing,125 Market St,San Francisco,CA,94105,214.92
+ORD1003,CUST018,2023-08-14,delivered,233 Fremont St,Las Vegas,NV,89101,578.97
+ORD1004,CUST003,2023-04-10,shipped,233 Fremont St,Las Vegas,NV,89101,966.87
+ORD1005,CUST018,2024-10-05,shipped,222 Congress Ave,Austin,TX,78701,369.97
+ORD1006,CUST013,2024-04-09,shipped,222 Congress Ave,Austin,TX,78701,526.50
+ORD1007,CUST006,2023-06-17,delivered,410 Peachtree Rd,Atlanta,GA,30303,1196.48
+ORD1008,CUST003,2024-08-03,shipped,410 Peachtree Rd,Atlanta,GA,30303,547.99
+ORD1009,CUST018,2024-08-21,delivered,222 Congress Ave,Austin,TX,78701,1076.97
+ORD1010,CUST014,2024-01-30,delivered,742 Evergreen Terrace,Chicago,IL,60610,1348.45
+ORD1011,CUST010,2023-06-11,delivered,233 Fremont St,Las Vegas,NV,89101,897.00
+ORD1012,CUST010,2023-06-06,shipped,410 Peachtree Rd,Atlanta,GA,30303,359.94
+ORD1013,CUST004,2023-11-11,fulfilled,56 Sunset Blvd,Los Angeles,CA,90028,179.97
+ORD1014,CUST016,2024-06-29,fulfilled,742 Evergreen Terrace,Chicago,IL,60610,856.90
+ORD1015,CUST018,2023-11-16,delivered,410 Peachtree Rd,Atlanta,GA,30303,659.95
+ORD1016,CUST019,2024-08-25,fulfilled,410 Peachtree Rd,Atlanta,GA,30303,749.97
+ORD1017,CUST003,2023-12-05,processing,125 Market St,San Francisco,CA,94105,1096.00
+ORD1018,CUST019,2023-09-06,delivered,840 Pine St,Seattle,WA,98101,1477.96
+ORD1019,CUST004,2024-02-17,shipped,125 Market St,San Francisco,CA,94105,59.99
+ORD1020,CUST014,2023-10-13,delivered,89 5th Ave,New York,NY,10011,539.97
+ORD1021,CUST008,2024-02-21,delivered,89 5th Ave,New York,NY,10011,1377.97
+ORD1022,CUST018,2023-06-08,fulfilled,840 Pine St,Seattle,WA,98101,339.46
+ORD1023,CUST002,2024-05-29,fulfilled,840 Pine St,Seattle,WA,98101,119.99
+ORD1024,CUST003,2024-02-18,processing,410 Peachtree Rd,Atlanta,GA,30303,656.97
+ORD1025,CUST019,2023-09-25,fulfilled,56 Sunset Blvd,Los Angeles,CA,90028,828.97
+ORD1026,CUST015,2023-03-17,fulfilled,742 Evergreen Terrace,Chicago,IL,60610,907.97
+ORD1027,CUST018,2024-09-18,processing,222 Congress Ave,Austin,TX,78701,1617.00
+ORD1028,CUST010,2023-12-18,fulfilled,410 Peachtree Rd,Atlanta,GA,30303,1288.95
+ORD1029,CUST001,2023-05-14,shipped,56 Sunset Blvd,Los Angeles,CA,90028,749.94
+ORD1030,CUST005,2024-01-14,fulfilled,125 Market St,San Francisco,CA,94105,1125.49

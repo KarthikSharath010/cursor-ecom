@@ -1,0 +1,16 @@
+digraph ecommerce_schema {
+    rankdir=LR;
+    node [shape=record, fontsize=10];
+
+    customers [label="{customers|customer_id PK|first_name|last_name|email|phone|city|state|signup_date}"];
+    products [label="{products|product_id PK|name|category|price|stock_qty|sku}"];
+    orders [label="{orders|order_id PK|customer_id FK|order_date|status|shipping_address|shipping_city|shipping_state|shipping_zip|total_amount}"];
+    order_items [label="{order_items|order_item_id PK|order_id FK|product_id FK|quantity|unit_price|line_total}"];
+    payments [label="{payments|payment_id PK|order_id FK|payment_date|amount|payment_method|status|transaction_id}"];
+
+    customers -> orders [label="1:M", fontsize=9];
+    orders -> order_items [label="1:M", fontsize=9];
+    products -> order_items [label="1:M", fontsize=9];
+    orders -> payments [label="1:M", fontsize=9];
+}
+

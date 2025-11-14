@@ -1,0 +1,21 @@
+customer_id,first_name,last_name,email,phone,city,state,signup_date
+CUST001,Ava,Hernandez,ava.hernandez@example.com,415-555-0134,San Francisco,CA,2022-01-15
+CUST002,Liam,Chambers,liam.chambers@example.com,206-555-0199,Seattle,WA,2021-11-02
+CUST003,Noah,Patel,noah.patel@example.com,312-555-0150,Chicago,IL,2022-05-21
+CUST004,Emma,Jackson,emma.jackson@example.com,917-555-0174,New York,NY,2023-02-10
+CUST005,Olivia,Wang,olivia.wang@example.com,512-555-0143,Austin,TX,2023-04-18
+CUST006,Isabella,Lopez,isabella.lopez@example.com,213-555-0102,Los Angeles,CA,2021-09-30
+CUST007,Sophia,Adams,sophia.adams@example.com,303-555-0162,Denver,CO,2022-12-05
+CUST008,Mason,Bennett,mason.bennett@example.com,404-555-0177,Atlanta,GA,2023-01-27
+CUST009,Lucas,Griffin,lucas.griffin@example.com,480-555-0116,Phoenix,AZ,2022-08-14
+CUST010,Mia,Foster,mia.foster@example.com,702-555-0192,Las Vegas,NV,2021-10-08
+CUST011,Ethan,Kumar,ethan.kumar@example.com,617-555-0183,Boston,MA,2022-03-19
+CUST012,Harper,Reed,harper.reed@example.com,919-555-0126,Raleigh,NC,2023-06-12
+CUST013,Elijah,Ferguson,elijah.ferguson@example.com,801-555-0176,Salt Lake City,UT,2022-07-25
+CUST014,Charlotte,Diaz,charlotte.diaz@example.com,305-555-0155,Miami,FL,2022-10-03
+CUST015,Amelia,Nguyen,amelia.nguyen@example.com,214-555-0180,Dallas,TX,2023-03-07
+CUST016,James,Larson,james.larson@example.com,612-555-0189,Minneapolis,MN,2021-12-29
+CUST017,Benjamin,Stone,benjamin.stone@example.com,615-555-0178,Nashville,TN,2022-06-01
+CUST018,Evelyn,Garcia,evelyn.garcia@example.com,702-555-0132,Henderson,NV,2023-05-03
+CUST019,Henry,Cole,henry.cole@example.com,925-555-0171,Oakland,CA,2022-09-09
+CUST020,Avery,Simmons,avery.simmons@example.com,971-555-0153,Portland,OR,2021-08-22
